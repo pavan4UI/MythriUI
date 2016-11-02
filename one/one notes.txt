@@ -1,0 +1,18 @@
+www.google.com : this is what we call a domain. In short, domain is an alias of ip address.
+
+
+HTML- Hyper Text Markup Language
+
+<html> elament has only two child elements: head and bdy.
+in present , we are dealing with html5.
+
+What are the differences between html4 and html5?:
+
+1. html5 introduced new elements like <video>, <audio>, <section>, <article>, etc.
+2. html5 introduced the concept of "semantic html"
+3. html5 introduced the concept of media.
+4. html5 introduced the concept of storages.
+
+Why do we have to use html5?
+
+<!DOCTYPE HTML PUBLIC "-//w3c//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
