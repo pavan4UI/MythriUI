@@ -1,0 +1,28 @@
+brwsers interpret the elements via two ways:
+
+1. block level element: has dimensions.
+2. inline level element: does'nt have dimensions. it takes the dimensions from its child element.
+
+examples of block level elements are:
+1. body
+2. div: short for divisions
+3. section, article,header, footer.
+
+examples of inline elements are:
+1. span
+2. a
+3. image
+
+in html5, a new concept was introduced called "trinity":
+<article>
+ <header></header>
+ <section></section>
+ <footer></section>
+</article>
+
+
+there are two ways of having lists in html:
+1. unordered list
+2. ordered list.
+
+the elements <ul> <ol> can have only one child element and that is <li> (a list).
