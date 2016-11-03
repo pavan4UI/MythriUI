@@ -1,0 +1,73 @@
+<!--This is main document type of the web page-->
+<!DOCTYPE html>
+<html>
+
+    <!-- This is head of the page-->
+    <head>
+        <title>Pavan's</title>
+    </head>
+
+    <!-- This is body of the page-->
+    <body>
+
+    <!--article starts from here-->
+   <article>
+
+       <!--This is header of the article-->
+      <header>
+          <h1>This is my first form....!</h1>
+      </header>
+      <section>
+          <form name="NewLicenceForm">
+
+              <!--First name-->
+               <div>
+                   <label for="FirstName">Applicant's First Name:</label>
+                   <input type="text" id="FirstName" name="fName" placeholder="Enter the First Name"/>
+               </div>
+              <br/>
+
+                <!--Last Name-->
+              <div>
+                  <label for="LastName">Applicant's Last Name:</label>
+                  <input type="text" id="LastName" name="lName" placeholder="Enter the Last Name"/>
+              </div>
+              <br/>
+
+                <!--Phone number-->
+             <div>
+                 <label for="Phonenumber">Applicant's Phone number:</label>
+                 <input type="text" id="Phonenumber" name="Phonenumber"/>
+             </div>
+              <br/>
+
+                <!--Gender-->
+            <div>
+                <label for="Gender">Applicant's Gender:</label>
+                <label>Male</label>
+                <input type="radio" id="Gender" name="Gender" value="Male"/>
+                <label>Female</label>
+                <input type="radio" id="Gender" name="Gender" value="Female"/>
+            </div>
+              <br/>
+              <!--Senior Citizen-->
+             <div>
+                 <label for="seniorcitizen">Is applicant a senior citizen..?</label>
+                 <input type="checkbox" id="seniorcitizen" name="seniorcitizen"/>
+             </div>
+              <br/>
+
+              <!--Submit Button-->
+             <button type="submit" id="submit" name="Submit">Submit</button>
+
+              <!--Reset Button-->
+             <button type="reset"  id="reset" name="reset">Reset</button>
+          </form>
+
+     </section>
+
+        <!--This is the footer-->
+    <footer>I am the Footer</footer>
+</article>
+</body>
+</html>
