@@ -1,0 +1,29 @@
+what is an attribute in html
+an atribute in html basically describes its characteristics
+
+there are several attributes available for us but few are standard for all elements:
+1. id- dscribes the uniqueness f the element
+2. class- this shares common values between elements.
+
+
+<attribute name>="<value>"
+example:
+<header id="heading"></header>
+
+adding comments in html
+comments- these are helpful tips by the developer
+
+to comment a line or a block of lines in html, we use <!-- -->
+
+there are two main components with which html gets rendered by the browser:
+1. tag- a tag has closing tag name ex: <header></header>
+2. element- elements in html are fields which accept some sort of inputs. they don't have a closing field
+
+
+every element has a required attribute which needs to be added at any cost
+
+after submitting a form, a table is rendered.
+
+newLicenceForm - camel casing in programming language.
+
+every input field must have "id attribute and "name" attribute
