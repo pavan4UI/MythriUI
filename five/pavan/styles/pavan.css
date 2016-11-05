@@ -1,25 +1,20 @@
 form{
-    border: 2px solid #61030e;
-    background-color: #eeeeee;
-    margin: 50px;
-    padding: 20px;
-}
-
-input {
-    display: block;
-
-}
-label {
-    display: block;
-
-}
-button {
-    background-color: red;
-    border: none;
-    color: white;
-    padding: 7px 15px;
-    text-align: center;
-    text-decoration: none;
+    border: 2px solid #992bfe;
     display: inline-block;
-    font-size: 16px;
+    margin: 3px;
+    padding: 5px;
+}
+
+div{
+    display: block;
+}
+
+label{
+    display:block;
+}
+
+button{
+    color: white;
+    background-color: green;
+    border-color: black;
 }
