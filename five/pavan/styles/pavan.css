@@ -1,8 +1,9 @@
 form{
     border: 2px solid #992bfe;
     display: inline-block;
-    margin-left: 565px;
-    padding: 5px;
+    margin-left: 570px;
+    padding: 15px;
+    border-radius: 15px;
 }
 
 div{
